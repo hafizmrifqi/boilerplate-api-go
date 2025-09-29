@@ -1,12 +1,3 @@
-# Go API Boilerplate
-
-Boilerplate siap pakai untuk aplikasi:
-
-- Sekolah
-- Inventaris / Gudang
-- Kasir
-- Pengelolaan kerja
-
 ## Fitur
 
 - MySQL support (XAMPP & production)
